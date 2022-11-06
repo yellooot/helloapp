@@ -16,6 +16,8 @@ namespace helloapp_black
         public static void Main()
         {
             Console.WriteLine("hello everyone");
+            greetBlack();
+            greetWhite();
         }
     }
 }
